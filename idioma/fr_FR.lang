@@ -1,0 +1,90 @@
+usuario="Utilisateur"
+sair="Quitter"
+modulos="Modules"
+sistema="Système"
+sobreSistema="À propos du système"
+desconectado="Déconnecté"
+comercial="Commercial"
+financeiro="Financier"
+faturamento="Facturation"
+producao="Production"
+almoxarifado="Almoxarifado"
+todosDireitos="Tous droits réservés"
+desenvolvido="Développé par"
+selecioneIdioma="Sélectionner la langue"
+portugues="Portugais"
+ingles="Anglais"
+espanhol="Espagnol"
+frances="Français"
+italiano="Italien"
+alemao="Allemand"
+acessoSistema="Accès au système"
+email="e-mail"
+senha="Mot de passe"
+entrar="Entrée"
+erroAutentica="Erreur d'authentification"
+loginFalhou="Impossible de combiner le nom d'utilisateur et le mot de passe"
+verifiqueSeusDados="Vérifiez vos données"
+voltarLogin="Retour à la connexion"
+sobreSistema="À propos du système"
+cadastro='Enregistrement'
+usuario='Utilisateur'
+pessoa='Personnes'
+produto='Produit'
+acesso='Accéder'
+
+aberturaCaixa='Ouverture de la Boîte'
+fechamentoCaixa='Fermeture de la Boîte'
+vendas='Ventes'
+balcao='Comptoir'
+brasil='Brésil'
+espanha='Espagne'
+frança='France'
+italia='Italie'
+alemanha='Allemagne'
+eua='EU'
+
+cadastrousuario='Enregistrement de utilisateur'
+codigo='Code'
+nome='Nom'
+status='Statut'
+tipo='Taper'
+opcoes='Choix'
+novcadastro='Nouveau Registre'
+
+nomeusuario='Nom d utilisateur'
+datacad='Date d inscription'
+
+sobresistema='À propos du système'
+essesistema='Ce système a été développé par Mirelli et Victor afin de réaliser une activité en classe.'
+contatomv='Contact : mirellifernandesb@gmail.com / victorhbatalhao@gmail.com'
+
+cadastrar='Registre'
+todososdireitos='© 2024 Tous droits réservés'
+desenvolvidopor='Développé par Mirelli Basso et Victor H. Batalhão'
+bemvindo='Bienvenue (à) '
+
+salvar='Sauver'
+campoobri='Champs Requis'
+tipousuario='Type d utilisateur'
+datacad='Date d inscription'
+dadosusuario='Données d utilisateur'
+alterar='Altérer'
+visualizar='Regarder'
+
+cep='Code postal'
+rua= 'Route'
+bairro = 'Quartier'
+cidade='Ville'
+estado='État'
+
+enderecouser = 'Informations sur l adresse'
+descricao = 'Description'
+marca = 'Marque'
+fornecedor = 'Fournisseur'
+valorcompra = 'Valeur de achat'
+valorvenda = 'Valeur de vente'
+quantidade = 'Montant' 
+validade = 'Validité'
+cadastroproduto = 'Enregistrement du produit'
+tipo = 'Taper'
